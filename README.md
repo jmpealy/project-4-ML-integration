@@ -41,3 +41,6 @@ This dataset includes sales data for a retailer during a 4 year period from 2014
 
 ## Presentation
 - [Link to Slide Deck](https://docs.google.com/presentation/d/1Z9NM-DMGqzko957rDNlWumDLL73pnbkKMdG5Hz-S5j8/edit#slide=id.gcec4d27072_0_0)
+
+## Maching Learning Models  
+- To view the machine learning models used for the project go to the other branches
